@@ -1,0 +1,92 @@
+@media (min-width: 0px) and (max-width:575px) {
+    .logo {
+        text-align: center;
+        padding-bottom: 10px;
+    }
+    
+    .responsive-top-head {
+        display: none;
+    }
+    
+    .banner{
+        text-align: center;
+    }
+    .banner-left{
+        padding-top: 40px;
+    }
+    .banner-left h2{
+        font-size: 20px;
+    }
+    
+    .welcome{
+        text-align: center;
+        padding-top: 40px;
+    }
+    .welcome-left img{
+        display: none;
+    }
+    .welcome-right h1{
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .meet-doctor {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        
+    }
+    .services {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        
+    }
+    .services-part{
+        margin-left: 20px;
+    }
+    .pricing {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        
+    }
+    .pricing-part{
+        margin-left: 20px;
+    }
+    .client{
+        padding-top: 20px;
+        
+    }
+    .tooth-flex h5{
+        padding-top: 0px;
+        margin-left: 10px;
+        font-size: 15px;
+        font-weight: bold;
+    }
+    
+}
+@media (min-width: 576px)  and (max-width:1224px) {
+    .responsive-top-head{
+        width: auto;
+    }
+    .welcome-left-img{
+        display: none;
+    }
+    .welcome-left-header{
+        width: 100%;
+        text-align: center;
+        align-items: center;
+    }
+    .welcome-left-body{
+        width: 100%;
+        text-align: center;
+        align-items: center;
+    }
+    .tooth-flex img{
+        height: 33px;
+        width: 30px;
+    }
+    .tooth-flex h5{
+        padding-top: 0px;
+        margin-left: 10px;
+        font-size: 15px;
+        font-weight: bold;
+    }
+}
